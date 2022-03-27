@@ -1,0 +1,8 @@
+E:\Github\ClassAndObjects\ClassAndObjects\bin\Debug\ClassAndObjects.exe.config
+E:\Github\ClassAndObjects\ClassAndObjects\bin\Debug\ClassAndObjects.exe
+E:\Github\ClassAndObjects\ClassAndObjects\bin\Debug\ClassAndObjects.pdb
+E:\Github\ClassAndObjects\ClassAndObjects\obj\Debug\ClassAndObjects.csproj.AssemblyReference.cache
+E:\Github\ClassAndObjects\ClassAndObjects\obj\Debug\ClassAndObjects.csproj.SuggestedBindingRedirects.cache
+E:\Github\ClassAndObjects\ClassAndObjects\obj\Debug\ClassAndObjects.csproj.CoreCompileInputs.cache
+E:\Github\ClassAndObjects\ClassAndObjects\obj\Debug\ClassAndObjects.exe
+E:\Github\ClassAndObjects\ClassAndObjects\obj\Debug\ClassAndObjects.pdb
